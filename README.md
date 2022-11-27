@@ -23,7 +23,7 @@
       </a>
   </p>
   <p align="center">
-    <i>Simple json visualization tool for your data.</i>
+    <i>Simpl json visualization tool for your data.</i>
     <p align="center">
     <a href="https://www.producthunt.com/posts/json-crack?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-json&#0045;crack" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=332281&theme=light" alt="JSON&#0032;Crack - Simple&#0032;visualization&#0032;tool&#0032;for&#0032;your&#0032;JSON&#0032;data&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
     </p>
